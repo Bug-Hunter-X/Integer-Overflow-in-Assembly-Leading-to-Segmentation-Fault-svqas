@@ -1,0 +1,3 @@
+# Integer Overflow Bug in Assembly
+
+This repository demonstrates a common error in assembly programming: integer overflow leading to memory access violations.  The `bug.asm` file contains the erroneous code.  The solution, `bugSolution.asm`, addresses this issue by adding checks to prevent overflow.  This example highlights the importance of careful memory address calculations and the need for robust error handling in low-level programming.  Please refer to the individual files for details.
